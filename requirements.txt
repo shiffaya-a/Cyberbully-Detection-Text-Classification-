@@ -1,0 +1,8 @@
+numpy== 1.21.5
+tensorflow== 2.3.1
+keras==2.4.0
+contractions
+pickle
+string
+nltk==3.2.5
+streamlit
